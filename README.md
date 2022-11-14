@@ -1,4 +1,4 @@
-# Skip-gram-Amazon-books-reviews
+# Skip-gram Amazon books reviews
 
 paper: https://arxiv.org/abs/1301.3781
 
